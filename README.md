@@ -187,3 +187,5 @@ If you ever want to contribute something, think about the people working hard to
 [Badge Edge]: https://img.shields.io/badge/dynamic/json?label=Edge&color=brightgreen&query=%24.averageRating&suffix=%2F%35&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fodfafepnkmbhccpbejgmiehpchacaeak
 [Badge Issues]: https://img.shields.io/github/issues/uBlockOrigin/uBlock-issues
 [Badge NPM]: https://img.shields.io/npm/v/@gorhill/ubo-core
+
+#Nesh
